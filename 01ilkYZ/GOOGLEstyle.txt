@@ -1,0 +1,15 @@
+ 
+ 
+ Google  Veri yol izleme Haritasi 
+
+ 1- Problemi Bul: Is / Hedef / Soru & Sorun
+ 
+ 2- Hazirlik     :  Veri olusturma - toplama - depolama ve veriyi yönetme  islenebilecek bir veriyi ortaya koymak
+
+ 3- Islem        : Veriyi temizleme / veri bütünlügü / anlamli hale getirme 
+
+ 4- Analiz(Model): Veri kesfi, görsellestirme ve Analiz  (veri bize ne anlatiyor verinden ne anlayabiliriz nasil bir model uygulayabiliriz ) MODEL KURMAK
+
+ 5- Paylas       : Sonuclarin iletimi ve yorumlanmasi
+
+ 6- Aksiyon Alma : Sorunun veri ile cözümü
